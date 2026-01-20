@@ -9,3 +9,8 @@
 <p align="center">
   <img src="https://i.postimg.cc/Wdb9vYtw/yiahborrar.png" alt="yiahborrar">
 </p>
+<p align="center">
+  $\color{purple}{\text{dni everybody /jk, but basic dni criteria, but, dni some other things, for example:}}$ <br>
+  $\color{purple}{\text{Forsaken fandom, proshippers, darkshippers, lolicons and WEIRD PEOPLE}}$ <br>
+  $\color{purple}{\text{(and freaky because I have a handsome boyfriend)}}$
+</p>
