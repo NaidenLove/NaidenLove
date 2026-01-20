@@ -14,3 +14,6 @@
   $\color{purple}{\text{Forsaken fandom, proshippers, darkshippers, lolicons and WEIRD PEOPLE}}$ <br>
   $\color{purple}{\text{(and freaky because I have a handsome boyfriend)}}$
 </p>
+<p align="center">
+  <img src="https://i.postimg.cc/5QjxDdDQ/yehhaah.gif" alt="yehhaah">
+</p>
