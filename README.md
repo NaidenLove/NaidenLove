@@ -44,3 +44,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/L5wjD9PG/amoaeste-PUTO.gif" alt="amoaeste">
 </p>
+<p align="center">
+  $\color{purple}{\text{normie but cool}}$
+</p>
