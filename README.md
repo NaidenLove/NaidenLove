@@ -45,3 +45,6 @@
   $\color{purple}{\text{Garfield - Sonic - CookieRun Kingdom - SpookyMonth - SacriStuff}}$ <br>
   $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon}}$
 </p>
+<p align="center">
+  <img src="https://i.postimg.cc/L5wjD9PG/amoaeste-PUTO.gif" alt="amoaeste">
+</p>
