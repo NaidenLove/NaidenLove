@@ -6,3 +6,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   <p align="center">
   <img src="https://i.postimg.cc/cJs4V719/MIRALOQUECOOL.gif" alt="MIRALOQUECOOL">
 </p>
+<p align="center">
+  <img src="https://i.postimg.cc/Wdb9vYtw/yiahborrar.png" alt="yiahborrar">
+</p>
