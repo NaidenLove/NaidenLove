@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/X786hrqm/gaymoviendosewow.gif" alt="gaymoviendosewow">
 <p align="center">
-  $\color{purple}{\text{He's so me, he copied my personality}}$
+  $\color{purple}{\text{He's me, he copied my personality}}$
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/Wdb9vYtw/yiahborrar.png" alt="yiahborrar">
