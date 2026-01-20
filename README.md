@@ -19,3 +19,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/5QjxDdDQ/yehhaah.gif" alt="yehhaah">
 </p>
+<p align="center">
+  $\color{orange}{\Huge{\text{my bf}}} \color{purple}{\Huge{\text{ and me}}}$
+</p>
