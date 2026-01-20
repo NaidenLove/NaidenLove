@@ -39,7 +39,7 @@
   $\color{purple}{\text{Lapfox - Lemon Demon - Tyler The Creator - Homestuck - Dandadan}}$ <br>
   $\color{purple}{\text{- Parrapa The Rapper - Flamingo - PolarCub - Adventure Time}}$ <br>
   $\color{purple}{\text{Garfield - Sonic - CookieRun Kingdom - SpookyMonth - SacriStuff}}$ <br>
-  $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon}}$
+  $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon - ratatin gaming}}$
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/L5wjD9PG/amoaeste-PUTO.gif" alt="amoaeste">
