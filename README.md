@@ -41,7 +41,7 @@
   $\color{purple}{\Huge{\text{fandoms I'm in:}}}$ <br>
   $\color{purple}{\text{Regretevator - Dandy's World - BattleBlock Theater - Undertale}}$ <br>
   $\color{purple}{\text{Lapfox - Lemon Demon - Tyler The Creator - Homestuck - Dandadan}}$ <br>
-  $\color{purple}{\text{Ranma - Parrapa The Rapper - Flamingo - PolarCub - Adventure Time}}$ <br>
+  $\color{purple}{\text{- Parrapa The Rapper - Flamingo - PolarCub - Adventure Time}}$ <br>
   $\color{purple}{\text{Garfield - Sonic - CookieRun Kingdom - SpookyMonth - SacriStuff}}$ <br>
   $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon}}$
 </p>
