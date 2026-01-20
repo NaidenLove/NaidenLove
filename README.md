@@ -1,6 +1,6 @@
 <p align="center">
-  $\color{purple}{\Huge{\text{i'm soo cool for pony town}}}$
-</p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  $\color{orange}{\Huge{\text{i'm soo cool for pony town}}}$
+</p>
 
  <p align="center">
   $\color{purple}{\text{I've been a boy since I was born so he/him btw}}$
