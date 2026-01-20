@@ -22,3 +22,6 @@
 <p align="center">
   $\color{orange}{\Huge{\text{my bf}}} \color{purple}{\Huge{\text{ and me}}}$
 </p>
+<p align="center">
+  <img src="https://i.postimg.cc/X786hrqm/gaymoviendosewow.gif" alt="gaymoviendosewow">
+</p>
