@@ -48,4 +48,6 @@
   $\color{purple}{\text{normie but cool}}$
 </p>
 
-
+<p align="center">
+  <img src="https://dl.glitter-graphics.com/pub/149/149432och7dh4rch.gif" width="60">
+</p>
