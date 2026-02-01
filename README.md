@@ -66,7 +66,9 @@
   <img src="https://i.imgur.com/qzclY2s.gif" width="300">
 </p>
 
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/jeUrrhqLtV0AAAAC/ttcc-toontown.gif" width="400">
+</p>
 
 <p align="center">
   $\color{purple}{\text{That's it, I have things to do}}$
