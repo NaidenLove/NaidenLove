@@ -82,3 +82,6 @@
 <p align="center">
   $\color{white}{\text{talk to me if you like ttcc, you're COOL, talk to me without problems}}$
 </p>
+<p align="center">
+  $\color{white}{\text{Love to all my followers}}$
+</p>
