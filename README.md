@@ -88,4 +88,6 @@
   $\color{purple}{\text{That's it, I have things to do}}$
 </p>
 
-
+<p align="center">
+  <img src="https://dl6.glitter-graphics.net/pub/1432/1432776umcqbgy8qp.jpg" width="100">
+</p>
