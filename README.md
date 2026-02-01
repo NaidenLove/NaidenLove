@@ -43,7 +43,7 @@
   $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon - ratatin gaming}}$
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/L5wjD9PG/amoaeste-PUTO.gif" alt="amoaeste">
+  <img src="https://64.media.tumblr.com/d9d2e0294e939fb61d953eca0dddebc0/8005cd504656d056-33/s1280x1920/cbf2974cdcfa3c800edf029169c64a75a8a720f2.png" width="450">
 </p>
 <p align="center">
   $\color{purple}{\text{normie but cool}}$
