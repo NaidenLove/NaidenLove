@@ -62,7 +62,6 @@
 <p align="center">
   $\color{purple}{\textit{(Btw, I look for old websites, games, and videos, peak)}}$
 </p>
-
 <p align="center">
   <img src="https://i.imgur.com/qzclY2s.gif" width="300">
 </p>
