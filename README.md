@@ -9,7 +9,8 @@
   <img src="https://i.postimg.cc/cJs4V719/MIRALOQUECOOL.gif" alt="MIRALOQUECOOL">
 </p>
 <p align="center">
-  <img src="https://64.media.tumblr.com/58eb81a2c741f82c8c4eb2fb1b8e8ec2/f6ea31639d1cde4f-7e/s640x960/8823b7711b263512af795c7cc617c1c2a9bae83b.png" alt="Pacesetter Image" width="450">
+  <p align="center">
+  <img src="https://64.media.tumblr.com/dfe3830b708dc70436fe872f5e00fa16/f6ea31639d1cde4f-e7/s640x960/1602da019ecdf280834a63676ddb0f77e49e0ea2.png" width="450">
 </p>
 <p align="center">
   $\color{purple}{\text{dni everybody /jk, but basic dni criteria, and dni some other things, for example:}}$ <br>
