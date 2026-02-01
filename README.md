@@ -76,6 +76,10 @@
 </p>
 
 <p align="center">
+  <img src="https://64.media.tumblr.com/dfe3830b708dc70436fe872f5e00fa16/f6ea31639d1cde4f-e7/s1280x1920/a69225130174608c2eb8b770da96e46990b63f98.png" width="500">
+</p>
+
+<p align="center">
   <img src="https://dl2.glitter-graphics.net/pub/92/92764x0sdkdgj73.gif" width="50">
 </p>
 
