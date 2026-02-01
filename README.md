@@ -75,5 +75,7 @@
   $\color{purple}{\text{That's it, I have things to do}}$
 </p>
 
-
+<p align="center">
+  <img src="https://dl2.glitter-graphics.net/pub/92/92764x0sdkdgj73.gif" width="50">
+</p>
 
