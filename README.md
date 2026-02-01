@@ -35,7 +35,7 @@
   <img src="https://i.postimg.cc/Wdb9vYtw/yiahborrar.png" alt="yiahborrar">
   <br>
 <p align="center">
-  $\color{purple}{\Huge{\text{fandoms I'm in:}}}$ <br>
+  $\color{orange}{\Huge{\text{fandoms I'm in:}}}$ <br>
   $\color{purple}{\text{Regretevator - Dandy's World - BattleBlock Theater - }}$ <br>
   $\color{purple}{\text{Lapfox - Lemon Demon - Tyler The Creator - Homestuck - Dandadan}}$ <br>
   $\color{purple}{\text{- Parrapa The Rapper - Flamingo - PolarCub - Adventure Time}}$ <br>
