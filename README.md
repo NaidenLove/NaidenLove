@@ -43,6 +43,7 @@
   $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon - ratatin gaming}}$
 </p>
 
+  <p align="center">
   $\color{purple}{\text{normie but cool}}$
 </p>
 
