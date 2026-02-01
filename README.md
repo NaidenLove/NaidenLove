@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/jeUrrhqLtV0AAAAC/ttcc-toontown.gif" width="400">
+  <img src="https://64.media.tumblr.com/1e6f74450e4cd4fdc42a6268c18c11b4/8005cd504656d056-32/s1280x1920/731d1acc97b6f9d49ff551563794b03c43340fdf.png" width="500">
 </p>
 
 <p align="center">
