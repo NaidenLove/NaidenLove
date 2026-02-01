@@ -2,10 +2,10 @@
   $\color{orange}{\Huge{\mathbf{IM \ TOO \ COOL \ FOR \ PONY \ TOWN}}}$
 </p>
 
-
 <p align="center">
-  <img src="https://64.media.tumblr.com/ec90509defb884b4951466eed97c18e4/3b60a9a8c78f3128-c7/s1280x1920/de79fdbc1692b25e27b3c9a1aae7f8e782b8b0bc.png" width="200">
+  <img src="https://64.media.tumblr.com/dfe3830b708dc70436fe872f5e00fa16/f6ea31639d1cde4f-e7/s1280x1920/a69225130174608c2eb8b770da96e46990b63f98.png" width="500">
 </p>
+
  <p align="center">
   $\color{purple}{\text{I've been a boy since I was born so he/him i guess}}$
 </p>
