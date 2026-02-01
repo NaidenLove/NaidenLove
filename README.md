@@ -1,6 +1,14 @@
 <p align="center">
   $\color{orange}{\Huge{\text{i'm too cool for pony town}}}$
 </p>
+
+<p align="center">
+  <img src="https://text.glitter-graphics.net/crl/i.gif"><img src="https://text.glitter-graphics.net/crl/m.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/crl/t.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/crl/c.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://text.glitter-graphics.net/crl/l.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/crl/f.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://text.glitter-graphics.net/crl/r.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/crl/p.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://text.glitter-graphics.net/crl/n.gif"><img src="https://text.glitter-graphics.net/crl/y.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/crl/t.gif"><img src="https://text.glitter-graphics.net/crl/o.gif"><img src="https://text.glitter-graphics.net/crl/w.gif"><img src="https://text.glitter-graphics.net/crl/n.gif">
+</p>
+
+
+
+
 <p align="center">
   <img src="https://64.media.tumblr.com/ec90509defb884b4951466eed97c18e4/3b60a9a8c78f3128-c7/s1280x1920/de79fdbc1692b25e27b3c9a1aae7f8e782b8b0bc.png" width="200">
 </p>
