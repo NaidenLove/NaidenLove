@@ -65,5 +65,5 @@
   $\color{purple}{\text{Websites from the 2000s, and that year in general - Flash games -}}$ <br>
   $\color{purple}{\text{online games - Cartoon Network - Adult Swim - Adobe Animate animations}}$ <br>
   <br>
-  $\color{purple}{\textit{(By the way, I look for old websites, games, and videos, peak)}}$
+  $\color{purple}{\textit{(Btw, I look for old websites, games, and videos, peak)}}$
 </p>
