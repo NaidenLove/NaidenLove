@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://text.glitter-graphics.net/disco/i.gif"><img src="https://text.glitter-graphics.net/disco/m.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/t.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/c.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/l.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/f.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/r.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/p.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/n.gif"><img src="https://text.glitter-graphics.net/disco/y.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/t.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/w.gif"><img src="https://text.glitter-graphics.net/disco/n.gif">
+  $\color{orange}{\Huge{\mathbf{I'M \ TOO \ COOL \ FOR \ PONY \ TOWN}}}$
 </p>
 
 
