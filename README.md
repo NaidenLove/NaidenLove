@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://text.glitter-graphics.net/disco/i.gif"><img src="https://text.glitter-graphics.net/disco/m.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/t.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/c.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/l.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/f.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/r.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/p.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/n.gif"><img src="https://text.glitter-graphics.net/disco/y.gif"><img src="https://dl3.glitter-graphics.net/empty.gif" width="15"><img src="https://text.glitter-graphics.net/disco/t.gif"><img src="https://text.glitter-graphics.net/disco/o.gif"><img src="https://text.glitter-graphics.net/disco/w.gif"><img src="https://text.glitter-graphics.net/disco/n.gif">
+</p>
+
+
+<p align="center">
   <img src="https://64.media.tumblr.com/ec90509defb884b4951466eed97c18e4/3b60a9a8c78f3128-c7/s1280x1920/de79fdbc1692b25e27b3c9a1aae7f8e782b8b0bc.png" width="200">
 </p>
  <p align="center">
