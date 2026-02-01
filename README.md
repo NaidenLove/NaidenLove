@@ -60,3 +60,10 @@
 <p align="center">
   $\color{orange}{\Huge{\text{things i like}}}$
 </p>
+
+<p align="center">
+  $\color{purple}{\text{Websites from the 2000s, and that year in general - Flash games -}}$ <br>
+  $\color{purple}{\text{online games - Cartoon Network - Adult Swim - Adobe Animate animations}}$ <br>
+  <br>
+  $\color{purple}{\textit{(By the way, I'm looking for old websites, games, and videos, peak)}}$
+</p>
