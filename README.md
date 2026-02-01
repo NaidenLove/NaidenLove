@@ -71,6 +71,9 @@
   $\color{purple}{\text{normie but cool}}$
 </p>
 
+<p align="center">
+  $\color{purple}{\text{normie but cool}}$
+</p>
 
 <p align="center">
   $\color{purple}{\text{That's it, I have things to do}}$
