@@ -1,6 +1,14 @@
 <p align="center">
   $\color{orange}{\Huge{\text{i'm too cool for pony town}}}$
 </p>
+
+<p align="center">
+  <a href="https://www.glitter-graphics.com/myspace/text_generator.php" target="_blank">
+    <img src="https://text.glitter-graphics.net/gloss/i.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/m.gif" border="0"><img src="https://dl3.glitter-graphics.net/empty.gif" width="20" border="0"><img src="https://text.glitter-graphics.net/gloss/t.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://dl3.glitter-graphics.net/empty.gif" width="20" border="0"><img src="https://text.glitter-graphics.net/gloss/c.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/l.gif" border="0"><img src="https://dl3.glitter-graphics.net/empty.gif" width="20" border="0"><img src="https://text.glitter-graphics.net/gloss/f.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/r.gif" border="0"><img src="https://dl3.glitter-graphics.net/empty.gif" width="20" border="0"><img src="https://text.glitter-graphics.net/gloss/p.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/n.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/y.gif" border="0"><img src="https://dl3.glitter-graphics.net/empty.gif" width="20" border="0"><img src="https://text.glitter-graphics.net/gloss/t.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/o.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/w.gif" border="0"><img src="https://text.glitter-graphics.net/gloss/n.gif" border="0">
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://64.media.tumblr.com/ec90509defb884b4951466eed97c18e4/3b60a9a8c78f3128-c7/s1280x1920/de79fdbc1692b25e27b3c9a1aae7f8e782b8b0bc.png" width="200">
 </p>
