@@ -15,7 +15,7 @@
 <p align="center">
   $\color{purple}{\text{dni everybody /jk, but basic dni criteria, and dni some other things, for example:}}$ <br>
   $\color{purple}{\text{Forsaken fandom, proshippers, darkshippers, lolicons and WEIRD PEOPLE}}$ <br>
-  $\color{purple}{\text{(and freaky because I have a handsome boyfriend)}}$
+  $\color{purple}{\text{(and people who are freaky with everyone because I have a handsome boyfriend)}}$
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/5QjxDdDQ/yehhaah.gif" alt="yehhaah">
