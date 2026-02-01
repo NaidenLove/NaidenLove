@@ -1,7 +1,9 @@
 <p align="center">
-  $\color{orange}{\Huge{\text{i'm soo cool for pony town}}}$
+  $\color{orange}{\Huge{\text{i'm too cool for pony town}}}$
 </p>
-
+<p align="center">
+  <img src="https://64.media.tumblr.com/ec90509defb884b4951466eed97c18e4/3b60a9a8c78f3128-c7/s1280x1920/de79fdbc1692b25e27b3c9a1aae7f8e782b8b0bc.png" width="650">
+</p>
  <p align="center">
   $\color{purple}{\text{I've been a boy since I was born so he/him i guess}}$
 </p>
