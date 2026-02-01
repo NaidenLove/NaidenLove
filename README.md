@@ -2,9 +2,6 @@
   $\color{orange}{\Huge{\mathbf{IM \ TOO \ COOL \ FOR \ PONY \ TOWN}}}$
 </p>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/dfe3830b708dc70436fe872f5e00fa16/f6ea31639d1cde4f-e7/s1280x1920/a69225130174608c2eb8b770da96e46990b63f98.png" width="500">
-</p>
 
  <p align="center">
   $\color{purple}{\text{I've been a boy since I was born so he/him i guess}}$
@@ -13,7 +10,7 @@
   <img src="https://i.postimg.cc/cJs4V719/MIRALOQUECOOL.gif" alt="MIRALOQUECOOL">
 </p>
 <p align="center">
-  <img src="https://64.media.tumblr.com/1e6f74450e4cd4fdc42a6268c18c11b4/8005cd504656d056-32/s1280x1920/731d1acc97b6f9d49ff551563794b03c43340fdf.png" width="500">
+  <img src="https://64.media.tumblr.com/dfe3830b708dc70436fe872f5e00fa16/f6ea31639d1cde4f-e7/s1280x1920/a69225130174608c2eb8b770da96e46990b63f98.png" width="500">
 </p>
 <p align="center">
   $\color{purple}{\text{dni everybody /jk, but basic dni criteria, and dni some other things, for example:}}$ <br>
