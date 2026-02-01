@@ -67,13 +67,7 @@
   <img src="https://i.imgur.com/qzclY2s.gif" width="300">
 </p>
 
-<p align="center">
-  $\color{purple}{\text{normie but cool}}$
-</p>
 
-<p align="center">
-  $\color{purple}{\text{normie but cool}}$
-</p>
 
 <p align="center">
   $\color{purple}{\text{That's it, I have things to do}}$
