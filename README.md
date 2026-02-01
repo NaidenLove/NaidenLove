@@ -79,3 +79,6 @@
   <img src="https://dl2.glitter-graphics.net/pub/92/92764x0sdkdgj73.gif" width="50">
 </p>
 
+<p align="center">
+  $\color{purple}{\text{talk to me if you like ttcc, you're COOL, talk to me without problems}}$
+</p>
