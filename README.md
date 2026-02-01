@@ -1,5 +1,5 @@
 <p align="center">
-  $\color{orange}{\Huge{\mathbf{I'M \ TOO \ COOL \ FOR \ PONY \ TOWN}}}$
+  $\color{orange}{\Huge{\mathbf{IM \ TOO \ COOL \ FOR \ PONY \ TOWN}}}$
 </p>
 
 
