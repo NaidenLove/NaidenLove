@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <img src="https://dl3.glitter-graphics.net/pub/1432/1432776umcqbgy8qp.gif" />
+  <img src="https://i.imgur.com/vH97vj7.gif" width="50">
 </p>
