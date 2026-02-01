@@ -76,6 +76,6 @@
 </p>
 
 <p align="center">
-  <img src="https://dl3.glitter-graphics.net/pub/1055/1055798dj9thnh2b4.gif" width="100">
+  <img src="https://dl3.glitter-graphics.net/pub/1055/1055798dj9thnh2b4.gif" width="50">
 </p>
 
