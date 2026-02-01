@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://dl2.glitter-graphics.net/pub/92/92764x0sdkdgj73.gif" width="50">
+  <img src="https://dl4.glitter-graphics.net/pub/552/552475wswxxxlvtk.gif" width="50">
 </p>
 
 <p align="center">
