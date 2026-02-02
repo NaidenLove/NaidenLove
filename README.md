@@ -100,3 +100,18 @@
     <img src="https://blinkies.cafe/b/blinkiesCafe-ug.gif" border="0">
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/totally007n7ig">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-NJ.gif" border="0">
+  </a>
+  
+  <a href="https://github.com/LAST-PERFORMANCE">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-ug.gif" border="0">
+  </a>
+
+  <a href="https://github.com/mekkicharms">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-yF.gif" border="0">
+  </a>
+</p>
