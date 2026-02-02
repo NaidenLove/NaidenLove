@@ -88,3 +88,9 @@
     <img src="https://pixelsafari.neocities.org/blinkies/animal/ratsratsrats.gif" border="0">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/mekkicharms">
+    <img src="https://pixelsafari.neocities.org/blinkies/animal/catmeooow.gif" border="0">
+  </a>
+</p>
