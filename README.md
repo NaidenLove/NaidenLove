@@ -84,5 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://pixelsafari.neocities.org/blinkies/animal/ratsratsrats.gif">
+  <a href="https://github.com/totally007n7ig">
+    <img src="https://pixelsafari.neocities.org/blinkies/animal/ratsratsrats.gif" border="0">
+  </a>
 </p>
