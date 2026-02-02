@@ -105,5 +105,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/L5FhfFQL/image.png" width="300">
+  <img src="https://i.postimg.cc/L5FhfFQL/image.png" width="600">
 </p>
