@@ -98,9 +98,9 @@
   <a href="https://github.com/mekkicharms">
     <img src="https://blinkies.cafe/b/blinkiesCafe-yF.gif" border="0">
   </a>
-  
- <a href="https://github.com/jimsilly">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-FI.gif" border="0">
+
+  <a href="https://github.com/jimsilly">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-zv.gif" border="0">
   </a>
 </p>
 
