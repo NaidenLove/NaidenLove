@@ -88,3 +88,9 @@
     <img src="https://blinkies.cafe/b/blinkiesCafe-NJ.gif" border="0">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/mekkicharms">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-yF.gif" border="0">
+  </a>
+</p>
