@@ -86,23 +86,23 @@
 
 <p align="center">
   <a href="https://github.com/arsonistflint">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-NJ.gif" border="0">
+    <img src="https://i.postimg.cc/FsysdRxq/matt.gif" border="0">
   </a>
   
   <a href="https://github.com/LAST-PERFORMANCE">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-p8.gif" border="0">
+    <img src="https://i.postimg.cc/W4CPfLn9/blinkies-Cafe-j-B.gif" border="0">
   </a>
 
   <a href="https://github.com/mekkicharms">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-yF.gif" border="0">
+    <img src="https://i.postimg.cc/W4CPfLn9/blinkies-Cafe-j-B.gif" border="0">
   </a>
 
   <a href="https://github.com/jimsilly">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-L6.gif" border="0">
+    <img src="https://i.postimg.cc/L6DFFZD2/blinkies-Cafe-3Y.gif" border="0">
   </a>
 
   <a href="https://github.com/skiprohacker90000">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-q1.gif" border="0">
+    <img src="https://i.postimg.cc/dV3pMNDC/ski.gif" border="0">
   </a>
 </p>
 
