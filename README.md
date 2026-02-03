@@ -112,3 +112,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/vmkKdfzQ/image.png" width="150">
 </p>
+
+<p align="center">
+  <font color="purple">Thanks to my fan named Ski for the beautiful drawing of Naisetter...</font>
+</p>
