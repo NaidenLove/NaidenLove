@@ -86,10 +86,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/arsonistflint">
-    <img src="https://pixelsafari.neocities.org/blinkies/animal/ratsratsrats.gif" border="0">
-  </a>
+
   <a href="https://github.com/arsonistflint">
     <img src="https://blinkies.cafe/b/blinkiesCafe-NJ.gif" border="0">
   </a>
