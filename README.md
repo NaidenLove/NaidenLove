@@ -114,5 +114,5 @@
 </p>
 
 <p align="center">
-  <font color="purple">Thanks to my fan named Ski for the beautiful drawing of Naisetter...</font>
+  $\color{purple}{\text{Thanks to my fan named Ski for the beautiful drawing of Naisetter...}}$
 </p>
