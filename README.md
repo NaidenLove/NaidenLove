@@ -87,7 +87,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/totally007n7ig">
+  <a href="https:https://github.com/arsonistflint">
     <img src="https://blinkies.cafe/b/blinkiesCafe-NJ.gif" border="0">
   </a>
   
