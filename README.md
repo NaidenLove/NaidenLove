@@ -84,24 +84,26 @@
 </p>
 
 
-
-
-
+<p align="center">
   <a href="https://github.com/arsonistflint">
     <img src="https://blinkies.cafe/b/blinkiesCafe-NJ.gif" border="0">
   </a>
-  <br>
-
+  
   <a href="https://github.com/LAST-PERFORMANCE">
     <img src="https://blinkies.cafe/b/blinkiesCafe-ug.gif" border="0">
   </a>
+
   <a href="https://github.com/mekkicharms">
     <img src="https://blinkies.cafe/b/blinkiesCafe-yF.gif" border="0">
   </a>
+
   <a href="https://github.com/jimsilly">
     <img src="https://blinkies.cafe/b/blinkiesCafe-zv.gif" border="0">
   </a>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://i.postimg.cc/L5FhfFQL/image.png" width="600">
