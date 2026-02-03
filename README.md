@@ -90,7 +90,7 @@
   </a>
   
   <a href="https://github.com/LAST-PERFORMANCE">
-    <img src="https://blinkies.cafe/b/display/blinkiesCafe-badge.gif" border="0">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-p8.gif" border="0">
   </a>
 
   <a href="https://github.com/mekkicharms">
@@ -98,7 +98,7 @@
   </a>
 
   <a href="https://github.com/jimsilly">
-    <img src="https://blinkies.cafe/b/display/blinkiesCafe-badge.gif" border="0">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-L6.gif" border="0">
   </a>
 
   <a href="https://github.com/skiprohacker90000">
