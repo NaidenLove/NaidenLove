@@ -57,7 +57,7 @@
 
 <p align="center">
   $\color{purple}{\text{Websites from the 2000s, and that year in general - Flash games -}}$ <br>
-  $\color{purple}{\text{online games - Cartoon Network - Adult Swim - Adobe Animate animations - comics-}}$ <br>
+  $\color{purple}{\text{online games - Cartoon Network - Adult Swim - Adobe Animate animations - comics -}}$ <br>
   $\color{purple}{\text{Robots - Chuck E. Cheese - The Rock-afire explosion - vintage things - rap - jazz}}$ <br>
   
 <p align="center">
