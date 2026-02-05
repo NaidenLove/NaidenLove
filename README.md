@@ -36,11 +36,11 @@
 </p>
 <p align="center">
   $\color{orange}{\Huge{\text{fandoms I'm in:}}}$ <br>
-  $\color{purple}{\text{Regretevator - Dandy's World - BattleBlock Theater - }}$ <br>
-  $\color{purple}{\text{Lapfox - Lemon Demon - Tyler The Creator - Homestuck - Dandadan}}$ <br>
-  $\color{purple}{\text{- Parrapa The Rapper - Flamingo - PolarCub - Adventure Time-}}$ <br>
-  $\color{purple}{\text{Garfield - Sonic - CookieRun Kingdom - SpookyMonth - SacriStuff}}$ <br>
-  $\color{purple}{\text{Undertale - Deltarune - toontown corporate clash - fionna and cake - pokemon - ratatin gaming}}$
+  $\color{purple}{\text{Regretevator - Castle Crashers - BattleBlock Theater - }}$ <br>
+  $\color{purple}{\text{Lapfox - Lemon Demon - Tyler The Creator - Homestuck - }}$ <br>
+  $\color{purple}{\text{ Parrapa The Rapper - LittleBigPlanet - Adventure Time - The Boondocks -  }}$ <br>
+  $\color{purple}{\text{Garfield - Sonic - Kingdom Hearts - SpookyMonth - SacriStuff - Regular Show}}$ <br>
+  $\color{purple}{\text{Undertale - Deltarune - Toontown Corporate Clash - Fionna And Cake - Pokemon - Ratatin Gaming}}$
 </p>
 
   <p align="center">
@@ -57,8 +57,9 @@
 
 <p align="center">
   $\color{purple}{\text{Websites from the 2000s, and that year in general - Flash games -}}$ <br>
-  $\color{purple}{\text{online games - Cartoon Network - Adult Swim - Adobe Animate animations - comics}}$ <br>
-  <br>
+  $\color{purple}{\text{online games - Cartoon Network - Adult Swim - Adobe Animate animations - comics-}}$ <br>
+  $\color{purple}{\text{Robots - Chuck E. Cheese - The Rock-afire explosion - vintage things - rap - jazz}}$ <br>
+  
 <p align="center">
   $\color{purple}{\textit{(Btw, I look for old websites, games, and videos, peak)}}$
 </p>
