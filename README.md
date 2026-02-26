@@ -41,7 +41,7 @@
 <p align="center">
   $\color{purple}{\text{Regretevator - Castle Crashers - BattleBlock Theater - }}$ <br>
   $\color{purple}{\text{Lapfox - Lemon Demon - Tyler The Creator - Homestuck - }}$ <br>
-  $\color{purple}{\text{ Parrapa The Rapper - LittleBigPlanet - Adventure Time - The Boondocks -  }}$ <br>
+  $\color{purple}{\text{ Parappa The Rapper - LittleBigPlanet - Adventure Time - The Boondocks -  }}$ <br>
   $\color{purple}{\text{Garfield - Sonic - Kingdom Hearts - SpookyMonth - SacriStuff - Regular Show -}}$ <br>
   $\color{purple}{\text{Undertale - Deltarune - Toontown Corporate Clash - Fionna And Cake - Pokemon - Ratatin Gaming}}$
 </p>
