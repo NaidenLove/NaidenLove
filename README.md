@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/L5FhfFQL/image.png" width="600">
+  <img src="https://i.postimg.cc/LXSjTCBG/peakaf.jpg" width="600">
 </p>
 
 <p align="center">
