@@ -3,8 +3,14 @@
 </p>
 
 <p align="center">
-  $\color{#7d419a}{\text{I've been a boy since I was born so he/him i guess}}$
-</p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+  $\color{#7d419a}{\text{Kiddo who plays on pc at 1000 fps and has a boyfriend who is cool and amazing, more than me.}}$ <br>
+  $\color{#7d419a}{\text{That's a unique description that describes me, but if you want to see more, scroll down, down, now}}$ <br>
+  $\color{#7d419a}{\text{I've been a boy since I was born so he/him i guess}}$ <br>
+  $\color{#7d419a}{\text{This looks WEIRD on phone. Sorry if you're playing on a phone dud, buy a computer}}$ <br>
+
+  
+</p>⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 <p align="center">
   <img src="https://i.postimg.cc/cJs4V719/MIRALOQUECOOL.gif" alt="MIRALOQUECOOL">
 </p>
