@@ -7,7 +7,6 @@
   $\color{#7d419a}{\text{That's a unique description that describes me, but if you want to see more, scroll down, down, now}}$ <br>
   $\color{#7d419a}{\text{I've been a boy since I was born so he/him i guess}}$ <br>
   $\color{#7d419a}{\text{This looks WEIRD on phone. Sorry if you're playing on a phone dud, buy a computer}}$ <br>
-
 <p align="center">
   <img src="https://64.media.tumblr.com/dfe3830b708dc70436fe872f5e00fa16/f6ea31639d1cde4f-e7/s1280x1920/a69225130174608c2eb8b770da96e46990b63f98.png" width="500">
 </p>
